@@ -8,3 +8,7 @@ Positioning remote artifacts in AR involves a lot of computation between animati
 
 1. Clone this repo and run `yarn` inside the `web` dir. 
 2. `yarn start` will build rust and the web example
+
+## Requirements
+
+node.js == v14.20.1
